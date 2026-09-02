@@ -1,0 +1,33 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "go tutorial'ını bitir",
+      "done": false,
+      "createdAt": "2026-08-12T11:59:46.446099+03:00",
+      "completedAt": null
+    },
+    {
+      "id": 2,
+      "title": "spor salonuna git",
+      "done": false,
+      "createdAt": "2026-08-12T12:00:00.634316+03:00",
+      "completedAt": null
+    },
+    {
+      "id": 3,
+      "title": "kullanıcı",
+      "done": false,
+      "createdAt": "2026-08-20T11:44:12.996832+03:00",
+      "completedAt": null
+    },
+    {
+      "id": 4,
+      "title": "kahvaltıya in",
+      "done": false,
+      "createdAt": "2026-08-25T12:40:47.708343+03:00",
+      "completedAt": null
+    }
+  ],
+  "nextID": 5
+}
